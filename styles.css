@@ -1,0 +1,35 @@
+.info {
+    background-color: blueviolet;
+    padding: 15px 0 15px 0;
+    display: 
+}
+
+.contactdetails {
+    display: inline;
+    margin: 0 20px 0 15px;
+}
+
+.socialmedialinks {
+    display: inline;
+    margin: 0 20px 0 500px;
+}
+
+body {
+    margin: 0;
+    display: inline;
+}
+
+a {
+ display: inline;
+ color: white;
+ text-decoration: none;
+}
+
+p {
+    display: inline;
+}
+
+
+
+
+
